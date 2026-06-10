@@ -12,6 +12,7 @@ sidebar:
     text: "Unity Client Developer (1인 개발)"
   - title: "대표 링크"
     text: "<a href='https://github.com/SweetFlush' class='btn btn--info' target='_blank'><i class='fab fa-fw fa-github'></i> GitHub</a><br><a href='#' class='btn btn--success'><i class='fas fa-fw fa-download'></i> Play Demo</a>"
+classes: wide
 ---
 
 이 문서는 새로운 유니티 프로젝트 포트폴리오를 작성할 때 복사하여 사용할 수 있는 **작성 템플릿 및 가이드**입니다. 각 항목을 본인의 실제 프로젝트 정보로 변경하여 포트폴리오를 완성해 보세요.
